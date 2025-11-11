@@ -42,6 +42,7 @@ This project analyzes hotel booking data to uncover sales trends, customer behav
 ---
 
 ## 🖥️ Dashboard Preview
+<img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/cd133c2c-cbc2-498c-ac83-ddc50d690e56" />
 
-> ✨ Insert screenshot here (example below)
+
 
