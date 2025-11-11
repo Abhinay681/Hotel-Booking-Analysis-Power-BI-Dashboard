@@ -45,4 +45,7 @@ This project analyzes hotel booking data to uncover sales trends, customer behav
 <img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/cd133c2c-cbc2-498c-ac83-ddc50d690e56" />
 
 
+## 📬 Contact
+For any queries or collaboration opportunities, feel free to reach out!
 
+**👤 Abhinay — (Data Analyst / BI Developer)** 
